@@ -71,20 +71,33 @@
     background-color:#fff;
 }
 
-.show__nav-items{
+.show__nav-links{
     display: flex;
-    flex-direction: column;
-    height: 100vh;
-    gap: 4rem;
-    font-size: 2rem;
-    margin-right: 4rem;
-   position: absolute;
-   right: 0;
-   top: 0;
-    
+        flex-direction: column;
+        height: 100vh;
+        gap: 3rem;
+        font-size: 2rem;
+        margin-right: 4rem;
+      position: relative;
+      right:0;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      
+      padding-top: 0;
+      padding-right: 4rem;
+     
+      margin-left: -2rem;
+      
 }
 
 
+.nav__icon3{
+    color: var(--main-color);
+}
+.nav__icon3 :hover{
+ color: #fff;
+}
 
 
 @media screen and (max-width:970px) {
@@ -133,8 +146,9 @@
         font-size: 2rem;
         margin-right: 4rem;
       position: absolute;
-      right: -100%;
-      top: 0;
+      right:-100%;
+      
+     
        
       
         
