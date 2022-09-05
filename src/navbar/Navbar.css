@@ -162,6 +162,10 @@
  @media screen and (min-width:600px) {
     .nav__icon2{
         display: none;
+
+    }
+    .nav__icon3{
+        display: none;
     }
  }
  @media screen and (max-width:300px) {
