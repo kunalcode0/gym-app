@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/gym-app/static/css/main.fb8ebbba.css",
-    "main.js": "/gym-app/static/js/main.bd76e013.js",
+    "main.css": "/gym-app/static/css/main.5fe4cade.css",
+    "main.js": "/gym-app/static/js/main.aae09818.js",
     "static/js/787.375f2d88.chunk.js": "/gym-app/static/js/787.375f2d88.chunk.js",
     "static/media/img2.png": "/gym-app/static/media/img2.d5d515e60a7b6b09a855.png",
     "static/media/img1.png": "/gym-app/static/media/img1.277ff7bc94112e99214d.png",
     "static/media/img3.png": "/gym-app/static/media/img3.b970d0a87707148e12f1.png",
     "static/media/img5.png": "/gym-app/static/media/img5.7e26e818fb84e9dcf2a8.png",
     "index.html": "/gym-app/index.html",
-    "main.fb8ebbba.css.map": "/gym-app/static/css/main.fb8ebbba.css.map",
-    "main.bd76e013.js.map": "/gym-app/static/js/main.bd76e013.js.map",
+    "main.5fe4cade.css.map": "/gym-app/static/css/main.5fe4cade.css.map",
+    "main.aae09818.js.map": "/gym-app/static/js/main.aae09818.js.map",
     "787.375f2d88.chunk.js.map": "/gym-app/static/js/787.375f2d88.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb8ebbba.css",
-    "static/js/main.bd76e013.js"
+    "static/css/main.5fe4cade.css",
+    "static/js/main.aae09818.js"
   ]
 }
